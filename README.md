@@ -7,6 +7,7 @@
 - Working On
   - Building upcoming SaaS applications of Dassault Systemes
   - Building https://lille.in from scratch.
+- I like to meet new people and discuss in some of the most interesting topics.
 
 <!---
 userkks/userkks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
