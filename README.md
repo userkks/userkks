@@ -2,6 +2,7 @@
 - JavaScript developer from India
 - 3+ years working as UI developer
 - Have been working in React, Vue and Express framework a lot
+- Looking for to collaborate in github
 - Currently learning
   - Ethereum blockchain and smart contracts
 - Working On
