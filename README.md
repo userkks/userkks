@@ -13,7 +13,7 @@ Tech Stack
    <ul>
      <li> Hi, I’m Koustav </li>
      <li> JavaScript developer from India </li> 
-     <li> 3+ years working as Full Stack developer</li>
+     <li> 4 years working as Full Stack developer</li>
      <li> Have been working in React, Angular and Express framework a lot</li>
      <li>Looking for to collaborate in github</li>
      <li> Currently learning   
